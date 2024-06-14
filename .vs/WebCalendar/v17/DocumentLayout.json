@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\.NET Platofrmy programistyczne\\Calendar-Planner-Web-App\\Web_Calendar_Planner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|WebCalendar.csproj|c:\\users\\admin\\desktop\\.net platofrmy programistyczne\\calendar-planner-web-app\\web_calendar_planner\\doxyfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|WebCalendar.csproj|solutionrelative:doxyfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|WebCalendar.csproj|c:\\users\\admin\\desktop\\.net platofrmy programistyczne\\calendar-planner-web-app\\web_calendar_planner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|WebCalendar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|WebCalendar.csproj|c:\\users\\admin\\desktop\\.net platofrmy programistyczne\\calendar-planner-web-app\\web_calendar_planner\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|WebCalendar.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|WebCalendar.csproj|c:\\users\\admin\\desktop\\.net platofrmy programistyczne\\calendar-planner-web-app\\web_calendar_planner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|WebCalendar.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|WebCalendar.csproj|c:\\users\\admin\\desktop\\.net platofrmy programistyczne\\calendar-planner-web-app\\web_calendar_planner\\webcalendar.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|WebCalendar.csproj|solutionrelative:webcalendar.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|WebCalendar.csproj|c:\\users\\admin\\desktop\\.net platofrmy programistyczne\\calendar-planner-web-app\\web_calendar_planner\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72526015-C1D3-4EB7-8817-C96CA8E8DEA6}|WebCalendar.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Doxyfile",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.NET Platofrmy programistyczne\\Calendar-Planner-Web-App\\Web_Calendar_Planner\\Doxyfile",
+              "RelativeDocumentMoniker": "Doxyfile",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.NET Platofrmy programistyczne\\Calendar-Planner-Web-App\\Web_Calendar_Planner\\Doxyfile",
+              "RelativeToolTip": "Doxyfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-14T18:22:03.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.NET Platofrmy programistyczne\\Calendar-Planner-Web-App\\Web_Calendar_Planner\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.NET Platofrmy programistyczne\\Calendar-Planner-Web-App\\Web_Calendar_Planner\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-14T18:22:02.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebCalendar",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.NET Platofrmy programistyczne\\Calendar-Planner-Web-App\\Web_Calendar_Planner\\WebCalendar.csproj",
+              "RelativeDocumentMoniker": "WebCalendar.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.NET Platofrmy programistyczne\\Calendar-Planner-Web-App\\Web_Calendar_Planner\\WebCalendar.csproj",
+              "RelativeToolTip": "WebCalendar.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-14T16:58:53.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.NET Platofrmy programistyczne\\Calendar-Planner-Web-App\\Web_Calendar_Planner\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.NET Platofrmy programistyczne\\Calendar-Planner-Web-App\\Web_Calendar_Planner\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:28:41.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.NET Platofrmy programistyczne\\Calendar-Planner-Web-App\\Web_Calendar_Planner\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.NET Platofrmy programistyczne\\Calendar-Planner-Web-App\\Web_Calendar_Planner\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAvwFIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:28:37.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.NET Platofrmy programistyczne\\Calendar-Planner-Web-App\\Web_Calendar_Planner\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.NET Platofrmy programistyczne\\Calendar-Planner-Web-App\\Web_Calendar_Planner\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Controllers\\EventController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAwJMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:19:40.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

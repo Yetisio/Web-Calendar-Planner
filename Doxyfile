@@ -1,0 +1,29 @@
+# Project related settings
+PROJECT_NAME           = "WebCalendar"
+PROJECT_BRIEF          = "WebCalendar Documentation"
+OUTPUT_DIRECTORY       = ./docs
+INPUT                  = "C:/Users/Admin/Desktop/.NET Platofrmy programistyczne/Calendar-Planner-Web-App/Web_Calendar_Planner"
+RECURSIVE              = YES
+FILE_PATTERNS          = *.cs *.h *.cpp *.c *.hpp *.java *.py
+
+# Build related settings
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+OPTIMIZE_OUTPUT_FOR_CSHARP = YES
+SOURCE_BROWSER         = YES
+INLINE_SOURCES         = YES
+ENABLE_PREPROCESSING   = YES
+MACRO_EXPANSION        = YES
+
+# Documentation related settings
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+GENERATE_MAN           = NO
+GENERATE_RTF           = NO
+GENERATE_XML           = NO
+GENERATE_DOCSET        = NO
+GENERATE_AUTOGEN_DEF   = NO
+
+# Warning and logging settings
+WARNINGS               = YES
+WARN_LOGFILE           = warnings.log
